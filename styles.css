@@ -31,6 +31,10 @@ form{
 color:#000;
 }
 
+.container{
+	margin-bottom:-20px;
+}
+
 .modal-dialog{
   width:900px;
 }
