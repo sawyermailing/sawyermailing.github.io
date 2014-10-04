@@ -49,13 +49,9 @@ color:#000;
 }
 
 .modal-dialog{
-	background-color:rgba(255,255,255,0.9);
 	width:900px;
 }
 
-.modal-header{
-	background-color:rgba(255,255,255,0.8);
-}
 
 .referral {
 margin:0 auto;
@@ -87,15 +83,4 @@ li img:hover {
 
 .text-white{
 	color:#fff;
-}
-
-.modal fade{
-	background-color:rgba(255,255,255,0.9);
-}
-
-.modal-body{
-	background-color:rgba(255,255,255,0.9);
-}
-.modal-content{
-	background-color:rgba(255,255,255,0.9);
 }
