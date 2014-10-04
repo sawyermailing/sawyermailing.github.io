@@ -88,3 +88,8 @@ li img:hover {
 .text-white{
 	color:#fff;
 }
+
+.modal fade{
+	background-color:rgba(255,255,255,0.9);
+}
+}
