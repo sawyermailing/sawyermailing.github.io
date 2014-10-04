@@ -96,3 +96,6 @@ li img:hover {
 .modal-body{
 	background-color:rgba(255,255,255,0.9);
 }
+.modal-content{
+	background-color:rgba(255,255,255,0.9);
+}
