@@ -15,7 +15,6 @@ body {
 	margin-bottom:50px;
 	font-family: 'Open Sans', sans-serif;
 	background-image: url('http://fc01.deviantart.net/fs11/i/2006/228/0/3/Grass_by_ashzstock.jpg');
-	text
 }
 
 .list-group ul li {
@@ -35,11 +34,12 @@ color:#000;
 }
 
 .container{
-	background-color:rgba(0,0,0,0.5);
+	background-color:rgba(0,0,0,0.1);
 }
 
 .container-jumbo{
 	margin-top:-20px;
+	background-color:rgba(0,0,0,0.5);
 }
 
 .modal-dialog{
