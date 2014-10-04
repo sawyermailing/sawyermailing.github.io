@@ -16,7 +16,8 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	background-image: url('http://fc01.deviantart.net/fs11/i/2006/228/0/3/Grass_by_ashzstock.jpg');
 	background-repeat: no-repeat;
-    	background-position: center; 
+    	background-position: center;
+    	background-attachment: fixed;
 }
 
 .list-group ul li {
