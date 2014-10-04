@@ -8,10 +8,16 @@
 	
 }
 
+body {
+                margin: 0;
+                padding: 0;
+}
 
 
 body { 
- 
+ 	margin:0;
+ 	padding:0;
+ 	border:0;
 	margin-bottom:50px;
 	font-family: 'Open Sans', sans-serif;
 	background-image: url('http://fc01.deviantart.net/fs11/i/2006/228/0/3/Grass_by_ashzstock.jpg');
