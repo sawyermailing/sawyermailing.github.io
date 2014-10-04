@@ -35,6 +35,12 @@ color:#000;
 
 .container-jumbo{
 	margin-top:-20px;
+	-webkit-filter: blur(20px);
+    	-moz-filter: blur(20px);
+    	-o-filter: blur(20px);
+    	-ms-filter: blur(20px);
+    	filter: blur(20px);
+    	opacity: 0.4;
 }
 
 .modal-dialog{
