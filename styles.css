@@ -92,4 +92,7 @@ li img:hover {
 .modal fade{
 	background-color:rgba(255,255,255,0.9);
 }
+
+.modal-body{
+	background-color:rgba(255,255,255,0.9);
 }
