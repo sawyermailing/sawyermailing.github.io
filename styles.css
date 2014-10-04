@@ -61,6 +61,9 @@ clear:both;
 ul {
   list-style-type: none;
 }
+.list-group{
+	background-color:rgba(255,255,255,0.5);
+}
  
 li img {
   float: left;
